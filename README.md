@@ -1,6 +1,10 @@
 Mega Project List
 ========
 
+In this repo, you will find my own solutions to the problems listed below. I get to solve them whenever I find time!
+
+## Description
+
 A list of practical projects that anyone can solve in any programming language (See [solutions](https://github.com/thekarangoel/Projects-Solutions)). These projects are divided in multiple categories, and each category has its own folder.
 
 To get started, simply fork this repo.
