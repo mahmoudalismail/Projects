@@ -6,9 +6,9 @@ function collaz (num) {
 	if (num == 1)
 		return 0;
 	if (num % 2 == 0)
-		return collaz(num/2, i+1) + 1;
+		return collaz(num/2) + 1;
 	else
-		return collaz((num*3)+1, i+1) + 1;	
+		return collaz((num*3)+1) + 1;	
 }
 
 // gets the 3rd argument on the command line
